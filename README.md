@@ -5,44 +5,32 @@
   <p><b>Beta V2.1.0</b></p>
 </div>
 
+<br/>
+
 <div align="center">
   <img src="assets/dashboard-preview.png" alt="TradeWorkstation Dashboard" width="100%" />
 </div>
 
-## Overview
+## System Presence
 
-TradeWorkstation is a high-performance, institutional-grade trading environment designed for clarity, continuous operation, and precise decision-making. Operating seamlessly with MetaTrader 5 (MT5), it bridges the gap between raw trading infrastructure and advanced analytical interfaces.
+**Design expresses system presence through atmosphere, not ornamentation.**
 
-The system is built on the philosophy that **design expresses system presence through atmosphere, not ornamentation**. Every interface element, data point, and notification is structured to maintain a calm, authoritative environment for the professional trader.
+TradeWorkstation strips away distraction to provide a calm, authoritative interface for professional trading. Every element is designed to communicate state, continuity, and confidence. Visual effects are environmental and global—never local or bound to a single component.
 
-## Core Features
+## Core Philosophy
 
-- **Algorithmic & Manual Execution**: Integrated directly with MT5 environments (including Prop Firm accounts like FTMO) for seamless execution and data extraction via dedicated Python workers.
-- **Decision Quality Tracking**: Advanced charting and decision quality metrics ensure that every trade is evaluated not just on outcome, but on adherence to execution protocols.
-- **Intelligent Notification Center**: Real-time structured updates with markdown support, keeping the trader informed of system states, account changes, and execution logs without demanding unnecessary attention.
-- **Ambient System Feedback**: Visual energy is implied through contrast and phase rather than loud ornamentation, establishing visual hierarchy through pure typography and alignment.
+- **Implied Energy**: Visual energy is implied through contrast, softness, and phase, never through displacement or unnecessary movement. Nothing in the interface should appear to “travel” or “orbit.”
+- **Ambient Feedback**: Visual behavior is built to feel like an atmosphere. Light behaves as an ambient condition, not as decoration or as an outline for components.
+- **Absolute Restraint**: Color intensity is restrained and stable. Color changes never imply interaction unless the element is explicitly interactive. High saturation or focal brightness is intentionally omitted.
+- **Structural Clarity**: The interface remains visually complete even if all motion is paused. Visual hierarchy is established through pure typography, spacing, and alignment, ensuring effects never compete with content for attention.
 
-## System Architecture
+## Interface & Textures
 
-TradeWorkstation operates through a decoupled architecture to ensure maximum reliability:
+The system is designed for visual completeness. Textures and grain exist to break digital perfection—remaining subtle and organic to avoid introducing false rhythms or visual focus. 
 
-1. **The Interface (Next.js / React)**
-   - A highly optimized, beautifully restrained frontend that visualizes market data and trade execution seamlessly.
-   - Built to operate quietly, providing visual completeness and immediate responsiveness.
-
-2. **The Worker Environment (Python / FastAPI / Docker)**
-   - Headless background workers connecting directly to robust MetaTrader 5 instances (hosted on secure VPS servers).
-   - Responsible for continuous synchronized data extraction, order management, and history syncing.
-
-## Assets & Previews
-
-*Note: Visual previews of the TradeWorkstation interface will be kept in the `assets/` directory.*
-
-- [Current Dashboard View](assets/dashboard-preview.png)
-- [Decision Quality Charting](assets/decision-quality.png)
-- [Notification Center](assets/notification-center.png)
+There are no forced rhythms, artificial interactivity, or ornamental highlighting. If an effect feels like a feature, it is incorrect. If it feels like an atmosphere, it is part of the system.
 
 ---
-
-*TradeWorkstation — Quiet performance. Absolute clarity.*
-# tradeworkstation-public
+<div align="center">
+  <i>TradeWorkstation — Quiet performance. Absolute clarity.</i>
+</div>
